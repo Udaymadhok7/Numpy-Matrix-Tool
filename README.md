@@ -9,7 +9,7 @@ A simple command-line matrix calculator built using **NumPy**. It supports basic
 - Matrix Subtraction
 - Matrix Multiplication
 - Transpose of a Matrix
-- Inverse of a Matrix (for square, invertible matrices)
+- Inverse of a Matrix 
 - Determinant of a Matrix
 
 ---
